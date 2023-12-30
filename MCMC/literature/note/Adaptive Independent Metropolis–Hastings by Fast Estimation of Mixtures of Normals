@@ -1,3 +1,10 @@
 from "Adaptive Independent Metropolis–Hastings by Fast Estimation of Mixtures of Normals"
 
-本文中作者利用高斯混合模型作为建议分布来实现自适应MH算法。
+##本文中作者利用高斯混合模型作为建议分布来实现自适应MH算法。##
+
+##bookmark##
+The speed at which the chain converges to the posterior distribution and its ability to move
+efficiently across the state space depend crucially on whether the proposal distribution(s)
+provide good approximations to the target distributions, either locally or globally. Given
+the key role played by proposal distributions, it is natural to use experience from previous
+draws to adapt the proposal to the target.
