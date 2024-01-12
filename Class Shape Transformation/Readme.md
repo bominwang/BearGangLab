@@ -1,1 +1,1 @@
-![rae2822](BearGangLab/Class Shape Transformation/figure/RAE2822.png)
+![rae2822](/figure/RAE2822.png)
